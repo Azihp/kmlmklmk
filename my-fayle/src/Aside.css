@@ -1,0 +1,26 @@
+
+.aside_block1{
+    display: flex;
+}
+.aside_block1__text{
+    margin-top: 277px;
+    margin-left: 300px;
+}
+.aside_block1__name{
+color: black;
+font-weight: 600;
+font-size: 48px;
+}
+.aside_block1__name1{
+    margin-top: 20px;
+    font-size: 16px;
+    color: #9497A1;
+    font-weight: 100;
+    display: flex;
+}
+.aside_block2__img{
+    margin-left: 100px;
+}
+.aside_block2__name{
+    
+}

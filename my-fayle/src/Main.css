@@ -1,0 +1,37 @@
+main {
+    display: flex;
+    justify-content: space-around;
+}
+
+.main_text {
+    margin-right: 143px;
+}
+
+.main_text__name {
+    margin-bottom: 30px;
+    margin-top: 75px;
+    font-weight: 800;
+    font-size: 26px;
+}
+
+.main_text__p {
+    font-style: normal;
+    color: gray;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 33px;
+}
+.main_text__btn{
+    margin-top: 35px;
+}
+.main_text__btn-blue {
+width: 190px;
+height: 54px;
+border: 1px solid  #185CFF;
+background-color: #185CFF;
+color: white ;
+border-radius: 5px;
+}
+.main_img{
+    margin-top: 84px;
+}
